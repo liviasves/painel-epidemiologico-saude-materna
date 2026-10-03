@@ -1,0 +1,4 @@
+base,ano,arquivo_origem,tamanho_mb,linhas_lidas,linhas_selecionadas,entra_rmm,tardio,causa_externa,datas_invalidas,ano_divergente,idade_ignorada,painel_ms,processado_em
+SIM,2022,sim_2022.csv,381.8,1544266,1675,1370,270,35,0,0,0,1368,2026-10-03T13:17:51
+SIM,2023,sim_2023.csv,362.5,1465610,1629,1324,280,25,0,0,0,1319,2026-10-03T13:17:55
+SIM,2024,sim_2024.csv,525.3,1532015,1610,1326,258,26,0,0,0,1326,2026-10-03T13:17:59

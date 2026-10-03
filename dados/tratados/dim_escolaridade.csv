@@ -1,0 +1,8 @@
+cod_escolaridade,escolaridade,ordem
+0,Sem escolaridade,0
+1,Fundamental I (1ª a 4ª série),1
+2,Fundamental II (5ª a 8ª série),2
+3,Médio,3
+4,Superior incompleto,4
+5,Superior completo,5
+9,Ignorado,9

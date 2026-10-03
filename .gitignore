@@ -1,0 +1,16 @@
+# --- Dados brutos (grandes demais para o GitHub; ver README para download)
+dados/brutos/
+
+# --- Credenciais (proibido versionar)
+.env
+terraform/terraform.tfvars
+
+# --- Estado do Terraform (contém a senha do banco em texto)
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+
+# --- Python e notebooks
+__pycache__/
+.ipynb_checkpoints/

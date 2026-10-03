@@ -1,0 +1,4 @@
+base,ano,arquivo_origem,tamanho_mb,linhas_lidas,linhas_fato_municipio,soma_fato_municipio,linhas_fato_parto,soma_fato_parto,ano_divergente,processado_em
+SINASC,2022,sinasc_2022.csv,863.5,2561922,240342,2561922,193928,2561922,0,2026-10-03T13:25:26
+SINASC,2023,sinasc_2023.csv,867.1,2537576,238969,2537576,184707,2537576,0,2026-10-03T13:25:39
+SINASC,2024,sinasc_2024.csv,535.8,2389325,232281,2389325,174692,2389325,0,2026-10-03T13:25:52

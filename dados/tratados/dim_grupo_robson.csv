@@ -1,0 +1,13 @@
+grupo_robson,descricao,agrupamento
+1,"Nulípara, gestação única, cefálica, ≥37 semanas, trabalho de parto espontâneo",1 a 4 (baixo risco)
+2,"Nulípara, gestação única, cefálica, ≥37 semanas, parto induzido ou cesárea antes do trabalho de parto",1 a 4 (baixo risco)
+3,"Multípara sem cesárea anterior, única, cefálica, ≥37 semanas, trabalho de parto espontâneo",1 a 4 (baixo risco)
+4,"Multípara sem cesárea anterior, única, cefálica, ≥37 semanas, parto induzido ou cesárea antes do trabalho de parto",1 a 4 (baixo risco)
+5,"Multípara com cesárea anterior, única, cefálica, ≥37 semanas",5 (cesárea anterior)
+6,Nulípara com apresentação pélvica,6 a 10
+7,Multípara com apresentação pélvica (inclui cesárea anterior),6 a 10
+8,Gestação múltipla (inclui cesárea anterior),6 a 10
+9,Situação transversa ou oblíqua (inclui cesárea anterior),6 a 10
+10,"Gestação única, cefálica, <37 semanas (inclui cesárea anterior)",6 a 10
+11,Não classificado por falta de informação,Não classificado
+99,Ignorado,Não classificado

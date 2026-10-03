@@ -1,0 +1,270 @@
+cod_causa,descricao,categoria,grupo_cid,capitulo_cid
+O000,Gravidez abdominal,O00,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O001,Gravidez tubária,O00,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O008,Outras formas de gravidez ectópica,O00,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O009,"Gravidez ectópica, não especificada",O00,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O010,Mola hidatiforme clássica,O01,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O011,Mola hidatiforme incompleta ou parcial,O01,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O019,Mola hidatiforme não especificada,O01,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O020,Ovo claro e mola não-hidatiforme,O02,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O021,Aborto retido,O02,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O029,"Produto anormal da concepção, não especificado",O02,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O030,"Aborto espontâneo - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O031,"Aborto espontâneo - incompleto, complicado por hemorragia excessiva ou tardia",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O033,"Aborto espontâneo - incompleto, com outras complicações ou com complicações não especificadas",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O034,"Aborto espontâneo - incompleto, sem complicações",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O035,"Aborto espontâneo - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O036,"Aborto espontâneo - completo ou não especificado, complicado por hemorragia excessiva ou tardia",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O037,"Aborto espontâneo - completo ou não especificado, complicado por embolia",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O038,"Aborto espontâneo - completo ou não especificado, com outras complicações ou com complicações não especificadas",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O039,"Aborto espontâneo - completo ou não especificado, sem complicações",O03,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O046,"Aborto por razões médicas e legais - completo ou não especificado, complicado por hemorragia excessiva ou tardia",O04,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O049,"Aborto por razões médicas e legais - completo ou não especificado, sem complicações",O04,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O050,"Outros tipos de aborto - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O051,"Outros tipos de aborto - incompleto, complicado por hemorragia excessiva ou tardia",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O052,"Outros tipos de aborto - incompleto, complicado por embolia",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O053,"Outros tipos de aborto - incompleto, com outras complicações ou com complicações não especificadas",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O055,"Outros tipos de aborto - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O056,"Outros tipos de aborto - completo ou não especificado, complicado por hemorragia excessiva ou tardia",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O058,"Outros tipos de aborto - completo ou não especificado, com outras complicações ou com complicações não especificadas",O05,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O060,"Aborto não especificado - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O061,"Aborto não especificado - incompleto, complicado por hemorragia excessiva ou tardia",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O062,"Aborto não especificado - incompleto, complicado por embolia",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O063,"Aborto não especificado - incompleto, com outras complicações ou com complicações não especificadas",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O064,"Aborto não especificado - incompleto, sem complicações",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O065,"Aborto não especificado - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O066,"Aborto não especificado - completo ou não especificado, complicado por hemorragia excessiva ou tardia",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O067,"Aborto não especificado - completo ou não especificado, complicado por embolia",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O068,"Aborto não especificado - completo ou não especificado, com outras complicações ou com complicações não especificadas",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O069,"Aborto não especificado - completo ou não especificado, sem complicações",O06,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O075,"Outras formas, e as não especificadas, de falha na provocação de aborto, complicadas por infecção do trato genital e por infecção dos órgãos pélvicos",O07,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O078,"Outras formas, e as não especificadas, de falha na provocação de aborto, com outras complicações ou com complicações não especificadas",O07,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O079,"Outras formas, e as não especificadas, de falha na provocação de aborto, sem complicação",O07,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O089,"Complicações conseqüentes a aborto e gravidez ectópica e molar, não especificadas",O08,Gravidez que termina em aborto,"Capítulo XV - Gravidez, parto e puerpério"
+O100,"Hipertensão essencial pré-existente complicando a gravidez, o parto e o puerpério",O10,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O101,"Doença cardíaca hipertensiva pré-existente complicando a gravidez, o parto e o puerpério",O10,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O102,"Doença renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério",O10,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O104,"Hipertensão secundária pré-existente complicando a gravidez, o parto e o puerpério",O10,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O109,"Hipertensão pré-existente não especificada, complicando a gravidez, o parto e o puerpério",O10,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O11,Distúrbio hipertensivo pré-existente com proteinúria superposta,O11,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O120,Edema gestacional,O12,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O13,Hipertensão gestacional [induzida pela gravidez] sem proteinúria significativa,O13,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O14,Hipertensão gestacional [induzida pela gravidez] com proteinúria significativa,O14,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O140,Pré-eclâmpsia moderada,O14,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O141,Pré-eclâmpsia grave,O14,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O142,Síndrome HELLP,O14,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O149,Pré-eclâmpsia não especificada,O14,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O150,Eclâmpsia na gravidez,O15,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O151,Eclâmpsia no trabalho de parto,O15,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O152,Eclâmpsia no puerpério,O15,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O159,Eclâmpsia não especificada quanto ao período,O15,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O16,Hipertensão materna não especificada,O16,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério","Capítulo XV - Gravidez, parto e puerpério"
+O208,Outras hemorragias do início da gravidez,O20,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O209,"Hemorragia do início da gravidez, não especificada",O20,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O210,Hiperêmese gravídica leve,O21,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O211,Hiperêmese gravídica com distúrbio metabólico,O21,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O219,"Vômitos da gravidez, não especificados",O21,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O223,Flebotrombose profunda na gravidez,O22,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O225,Trombose venosa cerebral na gravidez,O22,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O228,Outras complicações venosas na gravidez,O22,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O229,"Complicações venosas na gravidez, não especificadas",O22,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O230,Infecções do rim na gravidez,O23,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O231,Infecções da bexiga na gravidez,O23,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O233,Infecções de outras partes do trato urinário na gravidez,O23,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O234,Infecção não especificada do trato urinário na gravidez,O23,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O235,Infecções do trato genital na gravidez,O23,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O239,Outras infecções e as não especificadas do trato urinário na gravidez,O23,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O240,"Diabetes mellitus pré-existente, insulino-dependente",O24,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O241,"Diabetes mellitus pré-existente, não-insulino-dependente",O24,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O243,"Diabetes mellitus pré-existente, não especificado",O24,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O244,Diabetes mellitus que surge durante a gravidez,O24,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O249,"Diabetes mellitus na gravidez, não especificado",O24,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O266,"Transtornos do fígado na gravidez, no parto e no puerpério",O26,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O268,"Outras afecções especificadas, ligadas a gravidez",O26,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O269,"Afecções ligadas a gravidez, não especificadas",O26,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O280,"Achados hematológicos anormais do rastreamento [""screening""] antenatal da mãe",O28,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O291,Complicações cardíacas de anestesia administrada durante a gravidez,O29,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O292,Complicações relativas ao sistema nervoso central devidas a anestesia administrada durante a gravidez,O29,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O295,Outras complicações de anestesia raquidiana ou peridural administradas durante a gravidez,O29,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O296,Falha ou dificuldade na entubação durante a gravidez,O29,Outros transtornos maternos relacionados predominantemente com a gravidez,"Capítulo XV - Gravidez, parto e puerpério"
+O321,Assistência prestada à mãe por apresentação pélvica,O32,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O343,Assistência prestada à mãe por incompetência cervical,O34,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O348,Assistência prestada à mãe por outras anormalidades dos órgãos pélvicos,O34,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O349,"Assistência prestada à mãe por anormalidade de órgãos pélvicos, não especificada",O34,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O364,Assistência prestada à mãe por morte intra-uterina,O36,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O411,Infecção do saco amniótico e das membranas,O41,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O418,Outros transtornos especificados do líquido amniótico e das membranas,O41,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O420,"Ruptura prematura de membranas, com início do trabalho de parto dentro de 24 horas",O42,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O421,"Ruptura prematura de membranas, com início do trabalho de parto depois das primeiras 24 horas",O42,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O429,"Ruptura prematura de membranas, não especificada",O42,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O430,Síndromes de transfusão placentária,O43,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O431,Malformação da placenta,O43,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O438,Outros transtornos da placenta,O43,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O439,"Transtorno da placenta, não especificado",O43,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O440,Placenta prévia especificada como sem hemorragia,O44,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O441,Placenta prévia com hemorragia,O44,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O450,Descolamento prematuro da placenta com deficiência de coagulação,O45,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O458,Outro descolamento prematuro da placenta,O45,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O459,"Descolamento prematuro da placenta, não especificado",O45,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O460,Hemorragia anteparto com deficiência de coagulação,O46,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O468,Outra forma de hemorragia anteparto,O46,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O469,"Hemorragia anteparto, não especificada",O46,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,"Capítulo XV - Gravidez, parto e puerpério"
+O600,Trabalho de parto pré-termo sem parto,O60,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O601,Trabalho de parto pré-termo com parto pré-termo,O60,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O62,Anormalidades da contração uterina,O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O620,Contrações iniciais inadequadas,O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O621,Inércia uterina secundária,O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O622,Outras formas de inércia uterina,O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O623,Trabalho de parto precipitado,O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O624,"Contrações uterinas hipertônicas, incoordenadas ou prolongadas",O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O628,Outras anormalidades da contração uterina,O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O629,"Anormalidades da contração uterina, não especificadas",O62,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O630,Prolongamento do primeiro período (dilatação),O63,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O639,"Trabalho de parto prolongado, não especificado",O63,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O669,"Obstrução do trabalho de parto, não especificado",O66,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O670,Hemorragia intraparto com deficiência de coagulação,O67,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O678,Outras hemorragias intraparto,O67,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O679,Hemorragia intraparto não especificada,O67,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O689,"Trabalho de parto e parto complicados por sofrimento fetal, não especificado",O68,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O699,"Trabalho de parto e parto complicados por complicações do cordão, não especificadas",O69,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O701,Laceração de períneo de segundo grau durante o parto,O70,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O702,Laceração de períneo de terceiro grau durante o parto,O70,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O703,Laceração de períneo de quarto grau durante o parto,O70,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O709,"Laceração de períneo durante o parto, não especificada",O70,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O710,Ruptura do útero antes do início do trabalho de parto,O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O711,Ruptura do útero durante o trabalho de parto,O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O712,Inversão do útero pós-parto,O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O713,Laceração obstétrica do colo do útero,O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O714,"Laceração vaginal alta isolada, de origem obstétrica",O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O715,Outras lesões obstétricas aos órgãos pélvicos,O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O718,Outros traumatismos obstétricos especificados,O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O719,"Traumatismo obstétrico, não especificado",O71,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O72,Hemorragia pós-parto,O72,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O720,Hemorragia do terceiro estágio,O72,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O721,Outras hemorragias do pós-parto imediato,O72,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O722,"Hemorragias pós-parto, tardias e secundárias",O72,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O723,Deficiências de coagulação pós-parto,O72,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O730,Retenção da placenta sem hemorragia,O73,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O731,"Retenção de partes da placenta ou das membranas, sem hemorragia",O73,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O740,Pneumonite aspirativa devida a anestesia durante o trabalho de parto e o parto,O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O742,Complicações cardíacas devidas a anestesia durante o trabalho de parto e no parto,O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O743,Complicações do sistema nervoso central devidas a anestesia durante o trabalho de parto e no parto,O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O744,Reação tóxica a anestesia local durante trabalho de parto e o parto,O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O746,"Outras complicações de anestesia raquidiana ou peridural, durante o trabalho de parto e parto",O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O748,Outras complicações de anestesia durante o trabalho de parto e parto,O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O749,"Complicações de anestesia durante o trabalho de parto e parto, não especificadas",O74,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O750,Sofrimento materno durante o trabalho de parto e o parto,O75,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O751,Choque durante ou subseqüente ao trabalho de parto e o parto,O75,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O753,Outras infecções durante o trabalho de parto,O75,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O754,Outras complicações de procedimentos ou de cirurgia obstétrica,O75,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O758,Outras complicações especificadas do trabalho de parto e do parto,O75,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O759,"Complicações do trabalho de parto e do parto, não especificadas",O75,Complicações do trabalho de parto e do parto,"Capítulo XV - Gravidez, parto e puerpério"
+O839,"Parto único assistido, não especificado",O83,Parto,"Capítulo XV - Gravidez, parto e puerpério"
+O85,Infecção puerperal,O85,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O860,Infecção da incisão cirúrgica de origem obstétrica,O86,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O861,Outras infecções dos órgãos genitais subseqüentes ao parto,O86,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O862,Infecção das vias urinárias subseqüentes ao parto,O86,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O863,Outras infecções das vias genitourinárias subseqüentes ao parto,O86,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O864,Febre de origem desconhecida subseqüente ao parto,O86,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O868,Outras infecções puerperais especificadas,O86,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O871,Tromboflebite profunda no puerpério,O87,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O873,Trombose venosa cerebral no puerpério,O87,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O878,Outras complicações venosas no puerpério,O87,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O879,"Complicações venosas no puerpério, não especificadas",O87,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O880,Embolia gasosa de origem obstétrica,O88,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O881,Embolia amniótica,O88,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O882,Embolia obstétrica por coágulo de sangue,O88,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O883,Embolia séptica ou piêmica de origem obstétrica,O88,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O888,Outras embolias de origem obstétrica,O88,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O890,Complicações pulmonares da anestesia durante o puerpério,O89,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O891,Complicações cardíacas devidas a anestesia durante o puerpério,O89,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O895,"Outras complicações de anestesia raquidiana ou peridural, durante o puerpério",O89,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O899,"Complicação devida a anestesia, durante o puerpério, não especificada",O89,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O900,Ruptura da incisão de cesariana,O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O902,Hematoma da incisão obstétrica,O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O903,Cardiomiopatia no puerpério,O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O904,Insuficiência renal aguda do pós-parto,O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O905,Tireoidite do pós-parto,O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O908,"Outras complicações do puerpério, não classificadas em outra parte",O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O909,Complicação do puerpério não especificada,O90,Complicações relacionadas predominantemente com o puerpério,"Capítulo XV - Gravidez, parto e puerpério"
+O930,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O931,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O933,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O934,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O935,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O936,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O937,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O938,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O939,"Óbito materno associado a causa externa (marcador O93, uso exclusivo do Brasil)",O93,Óbito materno associado a causa externa,"Capítulo XV - Gravidez, parto e puerpério"
+O95,Morte obstétrica de causa não especificada,O95,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O96,"Morte, por qualquer causa obstétrica, que ocorre mais de 42 dias, mas menos de 1 ano, após o parto",O96,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O97,Morte por seqüelas de causas obstétricas diretas,O97,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O980,"Tuberculose complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O981,"Sífilis complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O984,"Hepatite viral complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O985,"Outras doenças virais complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O986,"Doenças causadas por protozoários complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O987,"Doença pelo HIV complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O988,"Outras doenças infecciosas e parasitárias maternas complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O989,"Doenças infecciosas e parasitárias maternas, não especificadas, complicando a gravidez, o parto e o puerpério",O98,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O990,"Anemia complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O991,"Outras doenças do sangue e dos órgãos hematopoéticos e alguns transtornos que comprometem o sistema imunológico, complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O992,"Doenças endócrinas, nutricionais e metabólicas complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O993,"Transtornos mentais e doenças do sistema nervoso complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O994,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O995,"Doenças do aparelho respiratório complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O996,"Doenças do aparelho digestivo complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O997,"Doenças da pele e do tecido subcutâneo complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+O998,"Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério",O99,Outras afecções obstétricas não classificadas em outra parte,"Capítulo XV - Gravidez, parto e puerpério"
+V031,"Pedestre traumatizado em colisão com um automóvel [carro], ""pick up"" ou caminhonete - acidente de trânsito",V03,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V093,Pedestre traumatizado em um acidente de trânsito não especificado,V09,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V124,Ciclista traumatizado em colisão com um veículo a motor de duas ou três rodas - condutor traumatizado em um acidente de trânsito,V12,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V235,"Motociclista traumatizado em colisão com um automóvel [carro], ""pick up"" ou caminhonete - passageiro traumatizado em um acidente de trânsito",V23,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V281,Motociclista traumatizado em um acidente de transporte sem colisão - passageiro traumatizado em acidente não-de-trânsito,V28,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V285,Motociclista traumatizado em um acidente de transporte sem colisão - passageiro traumatizado em um acidente de trânsito,V28,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V299,Motociclista [qualquer] traumatizado em um acidente de trânsito não especificado,V29,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V349,Ocupante de um triciclo motorizado traumatizado em colisão com um veículo de transporte pesado ou um ônibus - ocupante não especificado de um triciclo motorizado traumatizado em um acidente de trânsito,V34,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V436,"Ocupante de um automóvel [carro] traumatizado em colisão com um automóvel [carro], ""pick up"" ou caminhonete - passageiro traumatizado em um acidente de trânsito",V43,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V476,Ocupante de um automóvel [carro] traumatizado em colisão com um objeto fixo ou parado - passageiro traumatizado em um acidente de trânsito,V47,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V486,Ocupante de um automóvel [carro] traumatizado em um acidente de transporte sem colisão - passageiro traumatizado em um acidente de trânsito,V48,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V809,Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V80,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V870,Pessoa traumatizada em uma colisão entre um automóvel [carro] e um veículo a motor de duas ou três rodas (acidente de trânsito),V87,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V877,Pessoa traumatizada em uma colisão entre outros veículos a motor especificados (acidente de trânsito),V87,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+V892,Pessoa traumatizada em um acidente de trânsito com um veículo a motor não especificado,V89,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+W180,Outras quedas no mesmo nível - residência,W18,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+W789,Inalação do conteúdo gástrico - local não especificado,W78,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+W879,Exposição a corrente elétrica não especificada - local não especificado,W87,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+X040,Exposição a combustão de substância muito inflamável - residência,X04,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+X209,Contato com serpentes e lagartos venenosos - local não especificado,X20,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+X420,Envenenamento [intoxicação] acidental por e exposição a narcóticos e psicodislépticos [alucinógenos] não classificados em outra parte - residência,X42,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+X429,Envenenamento [intoxicação] acidental por e exposição a narcóticos e psicodislépticos [alucinógenos] não classificados em outra parte - local não especificado,X42,Acidentes,Capítulo XX - Causas externas de morbidade e de mortalidade
+X649,"Auto-intoxicação por e exposição, intencional, a outras drogas, medicamentos e substâncias biológicas e às não especificadas - local não especificado",X64,Lesões autoprovocadas intencionalmente,Capítulo XX - Causas externas de morbidade e de mortalidade
+X680,"Auto-intoxicação por e exposição, intencional, a pesticidas - residência",X68,Lesões autoprovocadas intencionalmente,Capítulo XX - Causas externas de morbidade e de mortalidade
+X689,"Auto-intoxicação por e exposição, intencional, a pesticidas - local não especificado",X68,Lesões autoprovocadas intencionalmente,Capítulo XX - Causas externas de morbidade e de mortalidade
+X700,"Lesão autoprovocada intencionalmente por enforcamento, estrangulamento e sufocação - residência",X70,Lesões autoprovocadas intencionalmente,Capítulo XX - Causas externas de morbidade e de mortalidade
+X709,"Lesão autoprovocada intencionalmente por enforcamento, estrangulamento e sufocação - local não especificado",X70,Lesões autoprovocadas intencionalmente,Capítulo XX - Causas externas de morbidade e de mortalidade
+X760,"Lesão autoprovocada intencionalmente pela fumaça, pelo fogo e por chamas - residência",X76,Lesões autoprovocadas intencionalmente,Capítulo XX - Causas externas de morbidade e de mortalidade
+X910,"Agressão por meio de enforcamento, estrangulamento e sufocação - residência",X91,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X930,Agressão por meio de disparo de arma de fogo de mão - residência,X93,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X934,Agressão por meio de disparo de arma de fogo de mão - rua e estrada,X93,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X939,Agressão por meio de disparo de arma de fogo de mão - local não especificado,X93,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X950,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada - residência,X95,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X952,"Agressão por meio de disparo de outra arma de fogo ou de arma não especificada - escolas, outras instituições e áreas de administração pública",X95,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X954,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada - rua e estrada,X95,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X955,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada - áreas de comércio e de serviços,X95,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X958,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada - outros locais especificados,X95,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X959,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada - local não especificado,X95,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X970,"Agressão por meio de fumaça, fogo e chamas - residência",X97,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X990,Agressão por meio de objeto cortante ou penetrante - residência,X99,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X995,Agressão por meio de objeto cortante ou penetrante - áreas de comércio e de serviços,X99,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+X999,Agressão por meio de objeto cortante ou penetrante - local não especificado,X99,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y004,Agressão por meio de um objeto contundente - rua e estrada,Y00,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y040,Agressão por meio de força corporal - residência,Y04,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y048,Agressão por meio de força corporal - outros locais especificados,Y04,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y099,Agressão por meios não especificados - local não especificado,Y09,Agressões,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y120,"Envenenamento [intoxicação] por e exposição a narcóticos e a psicodislépticos [alucinógenos] não classificados em outra parte, intenção não determinada - residência",Y12,Eventos (fatos) cuja intenção é indeterminada,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y199,"Envenenamento [intoxicação] por e exposição a outros produtos químicos e substâncias nocivas e aos não especificados, intenção não determinada - local não especificado",Y19,Eventos (fatos) cuja intenção é indeterminada,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y299,"Contato com objeto contundente, intenção não determinada - local não especificado",Y29,Eventos (fatos) cuja intenção é indeterminada,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y329,"Impacto de um veículo a motor, intenção não determinada - local não especificado",Y32,Eventos (fatos) cuja intenção é indeterminada,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y340,Fatos ou eventos não especificados e intenção não determinada - residência,Y34,Eventos (fatos) cuja intenção é indeterminada,Capítulo XX - Causas externas de morbidade e de mortalidade
+Y610,Objeto estranho deixado acidentalmente no corpo durante intervenção cirúrgica,Y61,Complicações de assistência médica e cirúrgica,Capítulo XX - Causas externas de morbidade e de mortalidade
