@@ -89,7 +89,7 @@ Banco **relacional** (PostgreSQL) em **modelo estrela**: tabelas fato com as med
 | 11 dimensões de códigos | raça/cor, escolaridade, estado civil, local de ocorrência, momento do óbito, tipo de óbito, tipo de parto, Robson, faixa etária, faixa de pré-natal e sim/não | 3 a 12 cada | < 1 MB |
 | `controle_sim`, `controle_sinasc` e `controle_carga` | arquivo de origem e linhas lidas, geradas e carregadas | 3, 3 e 19 | < 1 MB |
 
-O banco ocupa **145 MB, cerca de 14% do limite de 1 GB**. Cada fato se liga às dimensões por chave estrangeira, e as fatos de nascidos usam chave primária composta pelas próprias dimensões, garantindo uma linha por combinação.
+As tabelas somam **cerca de 137 MB**, bem abaixo do limite de 1 GB do plano gratuito. Cada fato se liga às dimensões por chave estrangeira, e as fatos de nascidos usam chave primária composta pelas próprias dimensões, garantindo uma linha por combinação.
 
 ### Representação
 
