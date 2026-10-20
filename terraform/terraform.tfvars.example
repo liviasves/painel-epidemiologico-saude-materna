@@ -1,0 +1,3 @@
+aiven_api_token = "SEU_TOKEN_AQUI"
+aiven_project   = "painel-epidemiologico-saude-materna"
+cloud_name      = "do-nyc"
